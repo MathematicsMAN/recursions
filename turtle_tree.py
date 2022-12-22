@@ -17,7 +17,7 @@ def step(n, steps):
         bk(steps)
 
 
-# speed(15)   # uncomment this command and command next command
+# speed(15)   # uncomment this command and comment next command
 tracer(0, 0)
 
 lt(90)
